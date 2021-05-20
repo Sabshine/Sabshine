@@ -26,7 +26,7 @@ My name is Sabrina Zaalberg and I'm a Software Developer with a graphic design b
 ## 📚 Learning
 
 ![](https://img.shields.io/badge/Library-Redux-informational?style=flat&logo=redux&logoColor=white&color=48b2db)
-![](https://img.shields.io/badge/Framework-Vue.JS-informational?style=flat&logo=vue.js&logoColor=white&color=48b2db)
+![](https://img.shields.io/badge/Framework-Vue.JS-informational?style=flat&logo=vue-dot-js&logoColor=white&color=48b2db)
 ![](https://img.shields.io/badge/Code-Sass-informational?style=flat&logo=sass&logoColor=white&color=48b2db)
 
 ## 📈 Stats
